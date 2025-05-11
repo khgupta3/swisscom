@@ -1,2 +1,0 @@
-# swisscom
-Open telemetry projecy
